@@ -1,37 +1,15 @@
-# POWP-Project
+# Laboratoria - zastosowanie wzorców projektowych w bibliotece narzędziowej PlotterMagic
 
-Szablon projektu dla studentów z wzorców projektowych. 
+## instrukcje
 
-Lista wzorców i związanych z nimi funkcjonalności jest podana indywidualnie przez prowadzącego na zajęciach.
+* powp-lab-adapter.pdf - Zapoznanie z projektem i warianty wzorca *adapter*
+* powp-lab-command.pdf - Zastosowanie wzorca *command* i innych...
 
-W ramach projektu mogą byc realizowane takie wzorce jak:
-* Abstract factory (Fabryka abstrakcyjna)
-* Factory method (Metoda wytwórcza)
-* Builder (Budowniczy)
-* Dependency injection
+## ogólne zasady oceny pracy na laboratoriach
 
-* Facade (Fasada)
-* Proxy (Pełnomocnik)
-* Adapter (Wrapper)
-* Dekorator
-
-* Strategy (Strategia)
-* Observer (Obserwator)
-* Command
-
-Mogą być też relizowane wzorce: 
-* MVC
-* Publish–subscribe pattern
-* Circuit breaker
-* CQRS
-* Lazy loading
-
-Projekt jest realizowany w dowolnym języku obiektowym znanym przez studenta, ale zalecany jest C# jako opcja do poznania rożnic między Java z pierwszej części zajęć, a tym językiem. 
-
-Oddanie cześci projektu na zajęciach uprawnia studenta do zaliczenia w formie zaocznej projektu -> poprzez sam pull request.
-
-Na ocene składać się bedzie:
-1. Poprawnie zrealizowane funkcje biznesowe zadane studentowi
-2. Poprawnie zrealizowane wzorce przez studenta
-3. Poprawnie napisany kod zgodnie ze standardami dla danego języka programowania
-4. Opis uruchomienia aplikacji jeśli zostanie wybrana inna technologia niż C#
+Rozwiązanie zadań laboratoryjnych zgłasza się za pomocą Pull Request. 
+Podstawowy czas na wykonanie wszystkich zadań to 7 dni.
+Za zgłoszone w terminie rozwiązanie pojedynczej instrukcji można dostać max. 5 pkt. 
+Dodatkowe punkty mogą być przyznane za zadania z gwiazdką.
+Za każdy tydzień opóźnienia maksymalna liczba punktów zmniejsza się o jeden.
+Więcej obowiązujących informacji dotyczących pracy z repozytorium znajdują się w instrukcjach.
